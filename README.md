@@ -1,5 +1,5 @@
 # Phuwagorn Chotchaitana
-![Phuwagorn Chotchaitana](IMG_1576.jpeg)
+<img src="IMG_1576.jpeg" alt="Phuwagorn" width="100">
 ### Senior Security Consultant
 
 ---
