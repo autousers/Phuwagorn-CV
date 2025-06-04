@@ -1,5 +1,5 @@
 # Phuwagorn Chotchaitana
-![Phuwagorn Chotchaitana](IMG_1576.jpg)
+![Phuwagorn Chotchaitana](IMG_1576.jpeg)
 ### Senior Security Consultant
 
 ---
