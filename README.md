@@ -8,7 +8,7 @@
 <table style="width:100%; border: none;">
   <tr style="border: none;">
     <td style="width:30%; vertical-align: top; padding-right: 20px; border: none;">
-      <img src="IMG_1576.jpeg" alt="Phuwagorn Chotchaitana" style="width:100%; border-radius: 8px;">
+      <img src="IMG_1576.jpeg" alt="Phuwagorn Chotchaitana" style="width:50%; border-radius: 8px;">
       <br><br>
 
       <div style="background-color: #333; color: white; padding: 15px; border-radius: 8px;">
